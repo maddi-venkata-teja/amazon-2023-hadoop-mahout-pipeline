@@ -1,0 +1,5 @@
+Arts_Crafts_and_Sewing	1_Star	857377
+Arts_Crafts_and_Sewing	2_Star	407967
+Arts_Crafts_and_Sewing	3_Star	585217
+Arts_Crafts_and_Sewing	4_Star	874245
+Arts_Crafts_and_Sewing	5_Star	5462205

@@ -1,0 +1,6 @@
+Input Path: /user/student278/venkat/amazon_2023_arts/mahout_work/nb-labelindex
+Key class: class org.apache.hadoop.io.Text Value Class: class org.apache.hadoop.io.IntWritable
+Key: Negative: Value: 0
+Key: Neutral: Value: 1
+Key: Positive: Value: 2
+Count: 3

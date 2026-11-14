@@ -1,0 +1,35 @@
+		Peak Map Virtual memory (bytes)=3108569088
+	File Input Format Counters 
+		Bytes Read=2296484156
+	File Output Format Counters 
+		Bytes Written=351431272
+26/11/14 04:39:02 INFO ZlibFactory: Successfully loaded & initialized native-zlib library
+26/11/14 04:39:02 INFO CodecPool: Got brand-new decompressor [.deflate]
+26/11/14 04:39:09 INFO TestNaiveBayesDriver: Complementary Results: 
+=======================================================
+Summary
+-------------------------------------------------------
+Correctly Classified Instances          :    6628277	   80.9828%
+Incorrectly Classified Instances        :    1556521	   19.0172%
+Total Classified Instances              :    8184798
+
+=======================================================
+Confusion Matrix
+-------------------------------------------------------
+a    	b    	c    	<--Classified as
+322430	277  	942254	 |  1264961	a     = Negative
+36073	961  	548088	 |  585122	b     = Neutral
+28927	902  	6304886	 |  6334715	c     = Positive
+
+=======================================================
+Statistics
+-------------------------------------------------------
+Kappa                                      -0.0878
+Accuracy                                   80.9828%
+Reliability                                31.2957%
+Reliability (standard deviation)            0.4704
+Weighted precision                          0.7867
+Weighted recall                             0.8098
+Weighted F1 score                           0.7512
+
+26/11/14 04:39:09 INFO MahoutDriver: Program took 83599 ms (Minutes: 1.3933166666666668)

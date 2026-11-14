@@ -1,0 +1,13 @@
+# Raw & processed datasets
+*.jsonl.gz
+*.csv
+data/
+input/
+
+# Compiled Java & JAR artifacts
+build/
+*.class
+*.jar
+
+# Large full product rating dump (sample_product_ratings_top50.txt is tracked instead)
+reports/product_ratings_summary.txt
